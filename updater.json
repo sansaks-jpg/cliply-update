@@ -1,0 +1,11 @@
+{
+  "version": "v0.2.6",
+  "notes": "Pembaruan rilis versi v0.2.6",
+  "pub_date": "2026-07-12T20:19:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1V1UnBrOG1DOWNlOWsrT1Faa2NPeW8xUklvTTFOSDdzQVhEcWxXM1dvMUlOcklkREFlT1dPekQ2TElGbnE2OWc4NnhiSUpQa3FtY1pxN1FUYnl5cTB6c25uSDRGK0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODg3NTY2CWZpbGU6Q2xpcGx5XzAuMi42X3g2NC1zZXR1cC5uc2lzLnppcAoxQnN5WTlRK050YVpubGoxQWhHcCtJQ3NDVU9iUFJSbmYvajM5WENwL2VkM0ltZjl2QldaVU9CUm1BQkN2aTF6WjRka2xORUZXelE2NlNPd1JCWFJEZz09Cg==",
+      "url": "https://github.com/sansaks-jpg/cliply-update/releases/download/v0.2.6/Cliply_0.2.6_x64-setup.nsis.zip"
+    }
+  }
+}
