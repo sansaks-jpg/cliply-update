@@ -1,11 +1,11 @@
 {
-  "version": "v0.2.62",
-  "notes": "Pembaruan rilis versi v0.2.62",
-  "pub_date": "2026-07-13T14:01:04Z",
+  "version": "v0.2.63",
+  "notes": "Pembaruan rilis versi v0.2.63",
+  "pub_date": "2026-07-13T16:35:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1V1UnBrOG1DOVdvdkVHQ3NBNlZhMXB5M2hDYVI2ZEhDRzkxbFkwaVNKYkxRcEpjSmtyS3ptd2RJSmd1bFRodCthYXh0eFZSSDd1U2ErTGh4WUU2TmxoUjhWVkNCc0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTUxMjE0CWZpbGU6Q2xpcGx5XzAuMi42Ml94NjQtc2V0dXAubnNpcy56aXAKZVdtY25ONThCNmQzK0l6cUgrQjUvLzFVQXI3cDU4NjVRcGg0WmU1RFY4b1kyamJkVVdtUnVmaXJRRW44VlVqbjZpTjRnNFh0Y0tLcU9Kb3hYbEFzQVE9PQo=",
-      "url": "https://github.com/sansaks-jpg/cliply-update/releases/download/v0.2.62/Cliply_0.2.62_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1V1UnBrOG1DOVF6UjVTMEl2MVc3K2htdC9wU2hhbTY2YnNOa0xKd2xmSk1aOGpQNmZDc1pENDUySWQyV0xWTTlzQ0xtNkFPSjl0akF1VGhGbmRPa3hVUUNUbHJ2b0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTYwNTMxCWZpbGU6Q2xpcGx5XzAuMi42M194NjQtc2V0dXAubnNpcy56aXAKNXN2dG9SRTZLZytyN2hFWXZjTFVzc1NHY3F1Wm90Qi9tRHRrZGxqUTRSc0U1RmhicW1WdzJLOTNDZGprV2RlbUZBRFVJSTI5L0VXdjhRTTV0NHdEQ1E9PQo=",
+      "url": "https://github.com/sansaks-jpg/cliply-update/releases/download/v0.2.63/Cliply_0.2.63_x64-setup.nsis.zip"
     }
   }
 }
